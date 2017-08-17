@@ -1,0 +1,18 @@
+.Main {
+  margin-top: 100px;
+  height: 800px;
+}
+
+.Main__left {
+  height: 100%;
+}
+
+.Main__right {
+  margin-left: 20px;
+  border: 1px solid #eee;
+  height: 100%;
+}
+
+.Main__left__well {
+  height: 100%;
+}
